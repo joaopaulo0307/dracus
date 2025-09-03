@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219459178489",
+    "project_id": "soyfrancescov-a2b3e",
+    "storage_bucket": "soyfrancescov-a2b3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219459178489:android:917119dbf23dc7b0063728",
+        "android_client_info": {
+          "package_name": "com.example.dracus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75GDQHD5xuCSNIo2W3I-n1nRriLWnTlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
